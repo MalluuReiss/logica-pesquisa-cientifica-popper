@@ -139,6 +139,17 @@ body {
     padding-left: 15px;
 }
 
+/* Estilo para Subtítulos de Conteúdo (h3) */
+.content-section h3 {
+    font-size: 1.6em; /* Tamanho médio */
+    color: var(--hover-color); /* Usa o amarelo/dourado para destacar */
+    margin-top: 40px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Sublinhado sutil e suave */
+    font-weight: 500; /* Um pouco mais leve que o h2 */
+}
+
 .content-section p {
     line-height: 1.8;
     margin-bottom: 20px;
